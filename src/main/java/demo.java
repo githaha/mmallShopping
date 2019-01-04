@@ -1,5 +1,6 @@
 public class demo {
 
-}
+    public  void getTest(){
 
-//    git remote add origin ssh:git@github.com:githaha/mmallShopping.git
+    }
+}
